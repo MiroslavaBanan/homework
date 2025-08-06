@@ -1,0 +1,22 @@
+header{
+    background-color: #E9AB47;
+    height: 60px;
+}
+
+.black_link{
+    color: black;
+}
+
+.beige_backgroung{
+    background-color: #F5E5CB;
+}
+
+footer{
+    background-color: #763AD3;
+    color: aliceblue;
+    height: 300px;
+}
+
+.white_link{
+    color: aliceblue;
+}
